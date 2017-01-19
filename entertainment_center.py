@@ -31,5 +31,5 @@ who_framed_roger_rabbit = media.Movie("Who Framed Roger Rabbit",
                                      "https://upload.wikimedia.org/wikipedia/en/3/32/Movie_poster_who_framed_roger_rabbit.jpg",
                                      "https://www.youtube.com/watch?v=gpDaNqSXxp0")
 
-movies = [toy_story, avatar, casablanca, who_framed_roger_rabbit, trading_places]
+movies = [avatar, casablanca, bad_santa, toy_story, trading_places, who_framed_roger_rabbit]
 fresh_tomatoes.open_movies_page(movies)
