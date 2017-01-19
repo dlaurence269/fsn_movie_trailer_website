@@ -6,6 +6,11 @@ avatar = media.Movie("Avatar",
                      "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
+bad_santa = media.Movie("Bad Santa",
+                        "A degenerate finding his way with the help of holiday spirit",
+                        "https://upload.wikimedia.org/wikipedia/en/c/cc/Bad_Santa_film.jpg",
+                        "https://www.youtube.com/watch?v=xQvaoRScND4")
+
 casablanca = media.Movie("Casablanca",
                          "A love story and daring escape during WWII",
                          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CasablancaPoster-Gold.jpg/440px-CasablancaPoster-Gold.jpg",
