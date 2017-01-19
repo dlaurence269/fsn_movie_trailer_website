@@ -16,6 +16,8 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background-image: url("http://baltimoresportsandlife.com/wp-content/uploads/2016/07/Movies.jpg");
+            background-attachment: fixed;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -38,6 +40,7 @@ main_page_head = '''
         }
         .movie-tile:hover {
             background-color: #EEE;
+            opacity: .5;
             cursor: pointer;
         }
         .scale-media {
