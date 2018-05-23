@@ -1,6 +1,6 @@
 # Purpose
 - This project was assigned by Udacity, an online programming educator.
-- Udacity provided the initial frontend (HTML/CSS/JS), which was enhanced over the course of the project.
+- Udacity provided the initial frontend (HTML/CSS), which was enhanced over the course of the project.
 - This project focuses on using Python in order to serve as a backend for a webpage.
 - The webpage has several movies and their information on display.
 - If you click on the movie's image, then the trailer for that movie should play.
